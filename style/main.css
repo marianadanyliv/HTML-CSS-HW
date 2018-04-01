@@ -11,11 +11,12 @@
 	margin-left: 20px;
 }
 .style {
-	background: lightgrey;
+	background: #A0A0A0FF;
    	display: flex;
     	justify-content: center;
     	align-items: center;
     	text-align: center;
+	color: white;
 }
 .logotype {
 	width: 20%;
